@@ -1,0 +1,15 @@
+C:\romanNumerals\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.exe
+C:\romanNumerals\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.deps.json
+C:\romanNumerals\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.runtimeconfig.json
+C:\romanNumerals\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.dll
+C:\romanNumerals\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.pdb
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.csproj.AssemblyReference.cache
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.AssemblyInfoInputs.cache
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.AssemblyInfo.cs
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.csproj.CoreCompileInputs.cache
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.dll
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\refint\RomanNumeralConverter.dll
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.pdb
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.genruntimeconfig.cache
+C:\romanNumerals\RomanNumeralConverter\obj\Debug\net6.0\ref\RomanNumeralConverter.dll
